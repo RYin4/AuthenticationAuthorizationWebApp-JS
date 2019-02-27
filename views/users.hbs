@@ -1,0 +1,24 @@
+<table>
+  <tr>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Email</th>
+    <th>Password</th>
+    <th>Username</th>
+    <th>Organization ID</th>
+    <th>Position ID</th>
+    <th>Title ID</th>
+  </tr>
+  {{#each users}}
+  <tr>
+    <td>{{first_name}}</td>
+    <td>{{last_name}}</td>
+    <td>{{email}}</td>
+    <td>{{password}}</td>
+    <td>{{username}}</td>
+    <td>{{organization_id}}</td>
+    <td>{{position_id}}</td>
+    <td>{{title_id}}</td>
+  </tr>
+  {{/each}}
+</table>
