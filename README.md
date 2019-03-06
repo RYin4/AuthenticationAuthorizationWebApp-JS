@@ -25,5 +25,5 @@ To provide users a web application that can perform the following actions:
 - **Object Relation Mapping** - JPA annotations to map the model classes to a relational schema.
 - **Database Scripts** - SQL scripts testing.
 
-  ![AuthenticationAuthorizationWebApp-JS!](https://github.com/RYin4/NewsApp/blob/master/app/src/main/res/drawable/newsAppScreenShot1.PNG "AuthenticationAuthorizationWebApp-JS App")
+  ![AuthenticationAuthorizationWebApp-JS!](https://github.com/RYin4/AuthenticationAuthorizationWebApp-JS/blob/master/ScreenShot1%20.png"AuthenticationAuthorizationWebApp-JS App")
    
