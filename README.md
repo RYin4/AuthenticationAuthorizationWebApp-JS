@@ -27,6 +27,6 @@ To provide users a web application that can perform the following actions:
 
   ![AuthenticationAuthorizationWebApp-JS!](https://github.com/RYin4/AuthenticationAuthorizationWebApp-JS/blob/master/ScreenShot1%20.png"AuthenticationAuthorizationWebApp-JS App")
   
-    ![AuthenticationAuthorizationWebApp-JS!](https://github.com/RYin4/NewsApp/blob/master/app/src/main/res/drawable/newsAppScreenShot1.PNG "News App")
+    ![AuthenticationAuthorizationWebApp-JS!](https://github.com/RYin4/NewsApp/blob/master/app/src/main/res/drawable/newsAppScreenShot1.PNG "AuthenticationAuthorizationWebApp-JS App")
 
    
