@@ -26,4 +26,7 @@ To provide users a web application that can perform the following actions:
 - **Database Scripts** - SQL scripts testing.
 
   ![AuthenticationAuthorizationWebApp-JS!](https://github.com/RYin4/AuthenticationAuthorizationWebApp-JS/blob/master/ScreenShot1%20.png"AuthenticationAuthorizationWebApp-JS App")
+  
+    ![NewsApp!](https://github.com/RYin4/NewsApp/blob/master/app/src/main/res/drawable/newsAppScreenShot1.PNG "News App")
+    ![NewsApp!](https://github.com/RYin4/NewsApp/blob/master/app/src/main/res/drawable/newsAppScreenShot3.PNG "News App")
    
