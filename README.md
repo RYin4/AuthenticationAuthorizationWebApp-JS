@@ -15,17 +15,14 @@ To provide users a web application that can perform the following actions:
 
 ### Features 
 - **REST API** - Design and architecture.
-- **Node.js** - 
-- **Express** - 
-- **Mongoose** - 
-- **Jasmine** - 
+- **Node.js** - Framework for REST API. 
+- **Express** - Server / client interaction. 
+- **Mongoose** - Database, testing. 
+- **Jasmine** - Test cases.
 - **MongoDB** - Database. Used for testing.
 - **JSON** - Resource representation.
-- **Spring MockMvc** - Testing. 
 - **Object Relation Mapping** - JPA annotations to map the model classes to a relational schema.
 - **Database Scripts** - SQL scripts testing.
-
-
   
     ![AuthenticationAuthorizationWebApp-JS!](https://github.com/RYin4/AuthenticationAuthorizationWebApp-JS/blob/master/ScreenShot1%20.png "AuthenticationAuthorizationWebApp-JS App")
 
